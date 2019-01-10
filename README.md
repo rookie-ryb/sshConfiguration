@@ -1,5 +1,5 @@
 # sshConfiguration
-# Author: RYB
+## Author: RYB
 
 ## function
 Nodes in the cluster trust each other
